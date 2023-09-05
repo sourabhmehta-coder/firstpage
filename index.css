@@ -1,0 +1,35 @@
+
+  
+body {
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+}
+canvas{display:block}
+h2 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #F4F5F7;
+  font-family: "Impact,Charcoal,sans-serif";
+  font-size: 5em;
+  font-weight: 800;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+button{
+  background-color: #18f98f;
+  border: none;
+  border-radius: 20px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+top: 70%;
+left: 50%;
+padding: 20px 50px;
+font-weight: 30px;
+font-size: 20px;
+
+  
+}
